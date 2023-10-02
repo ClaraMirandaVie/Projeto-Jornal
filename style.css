@@ -1,0 +1,254 @@
+*{
+margin: 0;
+padding: 0;
+background-color: #DBCA9F;
+}
+
+header{
+border: 1px solid black;
+height: 18vh;
+}
+
+.logo{
+width: 18vw;
+height: 18vh;
+}
+.conteiners-1-2{
+display: flex;
+flex-direction: column;
+}
+
+.home{
+display: flex;
+justify-content:start;
+gap: 19px;
+padding-right: 3px;
+}
+
+.manchetes{
+display: flex;
+gap: 80px;
+margin: 30px;
+}
+
+#manchete-segunda{
+display: flex table-column;
+}
+
+.div2{
+border: solid black 1px;
+width: 50vw;
+height: 20vh;
+display: flex;
+margin: 30px;
+align-items: center;
+gap: 20px;
+}
+
+.img-notco{
+    width: 13vw;
+    height: 19vh;
+    padding-left: 3px;
+}
+
+.img-port{
+    width: 13vw;
+    height: 19vh;
+    padding-left: 3px;
+}
+
+#title-manchete{
+    font-size: 22px;
+}
+
+h2{
+    font-size: 20px;
+    margin-top: 25px;
+    font-family: Georgia, serif;
+}
+
+a{
+    text-decoration:none;
+    color: black;  
+}
+
+h1{
+   display: flex;
+   justify-content: center; 
+   padding-left: 100px;
+   font-size: 50px;
+   font-family: Georgia, serif;
+}
+.manchetes{
+    height: 99vh;
+}
+
+#manchete-primeira{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+#manchete-primeira-2{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    
+    border: 1px solid black;
+    margin-top: 50px
+}
+
+.curriculo{
+    width: 29vw;
+}
+.amor{
+    width: 31vw;
+}
+.operarios{
+    width: 18vw;
+    height: 18vh;
+    padding-left: 3px;
+}
+
+.natureza-section{
+    height: 94vh;
+    border: 2px solid black;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.humanas-section{
+    height: 94vh;
+    border: 2px solid black;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.portuga-section{
+    display: flex;
+    justify-content: center;
+    height: 94vh;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.matematic-section{
+    display: flex;
+    justify-content: center;
+    height: 94vh;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.itfor-section{
+    display: flex;
+    justify-content: center;
+    height: 94vh;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.vagas-de-emprego{
+    width: 30vw;
+    height: 40vh;
+}
+
+.fot{
+   width: 20vw;
+}
+
+footer{
+    display: flex;
+    justify-content:center ;
+    background-color: #b49e65;
+}
+
+.titulos-areas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.primeira-manchete-natureza{
+    
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+    margin-right: 40px;
+}
+
+.segunda-manchete-natureza{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+}
+
+.primeira-manchete-humana{
+    
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+    margin-right: 40px;
+}
+
+.segunda-manchete-humana{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+}
+
+.primeira-manchete-portuga{
+    
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+    margin-right: 40px;
+}
+
+.segunda-manchete-portuga{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+}
+
+.primeira-manchete-matematc{
+    
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+    margin-right: 40px;
+}
+
+.segunda-manchete-matematc{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+}
+
+.primeira-manchete-itfor{ 
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+    margin-right: 40px;
+}
+
+.segunda-manchete-itfor{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid black;
+    margin-top: 290px;
+}
+
+.imagem-exemplo{
+    width: 30vw;
+    height: 40vh;
+}
+
