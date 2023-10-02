@@ -1,5 +1,5 @@
 # Projeto-Jornal
-
+https://cmv008.github.io/Projeto-Jornal/
 Requisitos Jornal
 1.Visão geral do projeto:
 O jornal Star Newste mostra o que os alunos do Ensino Médio Senac estão aprendendo neste segundo trimestre.
